@@ -23,3 +23,4 @@ python3 demo.py INPUTS/IA1.jpg
 ### To-do
 - [ ] DATASET_UPDATES HDR+, Human subjects, Pet subjects
 - [ ] Optimization
+- [ ] Hyper saturation fixes
