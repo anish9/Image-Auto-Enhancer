@@ -20,3 +20,6 @@ python3 demo.py INPUTS/IA1.jpg
 ```
 - outputs are saved at OUTPUTS folder
  
+### To-do
+[ ] DATASET_UPDATES HDR+, Human subjects, Pet subjects
+[ ] Optimization
