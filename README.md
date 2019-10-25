@@ -8,4 +8,4 @@ Deep Learning Image Auto Enhancer based Residual Dense Network Blocks
  
 
 ### Some Results
-<img src="https://github.com/anish9/Image-Auto-Enhancer/blob/master/OUTPUTS/outs.jpg" alt="Smiley Sface" height="900" width="700">
+<img src="https://github.com/anish9/Image-Auto-Enhancer/blob/master/OUTPUTS/outs.jpg" alt="Smiley Sface" height="900" width="800">
