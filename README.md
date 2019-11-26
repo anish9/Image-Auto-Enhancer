@@ -1,5 +1,5 @@
 # Auto-enhance - Version 1.0
-Deep Learning Image Auto Enhancer based Residual Dense Network Blocks
+Deep Learning Image Auto Enhancer
 
 ### Requirements 
  - Python3.6
